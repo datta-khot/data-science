@@ -1,4 +1,7 @@
 # data-science
+## secondary heading
+### tertiary heading
 Repository for data science couse
 
-R Programming
+* R Programming
+* Machine learning
